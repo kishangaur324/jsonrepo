@@ -2,22 +2,22 @@
     "targetKey": [
         {
             "Record Id": 1,
-            "name": "kishan singh gaur",
+            "name": "kishan singh",
             "address": "haldwani"
         },
         {
             "Record Id": 2,
-            "name": "kishan singh gaur",
+            "name": "gaurav singh",
             "address": "dehradun"
         },
         {
             "Record Id": 3,
-            "name": "kishan singh gaur",
+            "name": "lalit singh",
             "address": "gurgaon"
         },
         {
             "Record Id": 4,
-            "name": "kishan singh gaur",
+            "name": "kishan gaur",
             "address": "delhi"
         }
     ]
