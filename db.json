@@ -3,34 +3,22 @@
         {
             "Record Id": 1,
             "name": "kishan singh gaur",
-            "address": "haldwani",
-            "Modified By": "",
-            "Date Created": "24-08-2020 00:00:00",
-            "Date Modified": ""
+            "address": "haldwani"
         },
         {
             "Record Id": 2,
             "name": "kishan singh gaur",
-            "address": "dehradun",
-            "Modified By": "",
-            "Date Created": "24-08-2020 00:00:00",
-            "Date Modified": ""
+            "address": "dehradun"
         },
         {
             "Record Id": 3,
             "name": "kishan singh gaur",
-            "address": "gurgaon",
-            "Modified By": "",
-            "Date Created": "24-08-2020 00:00:00",
-            "Date Modified": ""
+            "address": "gurgaon"
         },
         {
             "Record Id": 4,
             "name": "kishan singh gaur",
-            "address": "delhi",
-            "Modified By": "",
-            "Date Created": "24-08-2020 00:00:00",
-            "Date Modified": ""
+            "address": "delhi"
         }
     ]
 }
