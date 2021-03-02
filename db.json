@@ -1,46 +1,51 @@
-{
-    "targetKey": [
-        {
-            "id": 37,
-            "num1": 11,
-            "num2": 11,
-            "relatedParent": 2
-        },
-        {
-            "id": 38,
-            "num1": 12,
-            "num2": 12,
-            "relatedParent": 2
-        },
-        {
-            "id": 39,
-            "num1": 13,
-            "num2": 13,
-            "relatedParent": 2
-        },
-        {
-            "id": 40,
-            "num1": 14,
-            "num2": 14,
-            "relatedParent": 2
-        },
-        {
-            "id": 41,
-            "num1": 15,
-            "num2": 15,
-            "relatedParent": 2
-        },
-        {
-            "id": 42,
-            "num1": 16,
-            "num2": 16,
-            "relatedParent": 2
-        },
-        {
-            "id": 43,
-            "num1": 17,
-            "num2": 17,
-            "relatedParent": 2
-        }
-    ]
-}
+[
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2532,
+    "Name": "Name 1"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2533,
+    "Name": "Name 2"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2534,
+    "Name": "Name 3"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2535,
+    "Name": "Name 4"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2536,
+    "Name": "Name 5"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2537,
+    "Name": "Name 6"
+  },
+  {
+    "Related Applicant": 25,
+    "Work Completed Total": 5000,
+    "Status": "Open",
+    "Record ID": 2538,
+    "Name": "Name 7"
+  }
+]
