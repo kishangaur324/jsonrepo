@@ -1,4 +1,5 @@
-[
+{
+    "targetKey": [
   {
     "Related Applicant": 25,
     "Work Completed Total": 5000,
@@ -49,3 +50,4 @@
     "Name": "Name 7"
   }
 ]
+}
